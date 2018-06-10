@@ -1,31 +1,31 @@
-{
-  "producer_account_name": "",
-  "producer_public_key": "",
+﻿{
+  "producer_account_name": "eosvietnambp",
+  "producer_public_key": "EOS6LThT4JZmqbqPjzk1Sf8VCBQg6XWX6hjaVmHJDSRkfWsTxZdLG",
   "org": {
-    "candidate_name": "",
-    "website": "",
-    "code_of_conduct":"",
-    "email":"",
+    "candidate_name": "EOS VietNam",
+    "website": "https://www.eosviet.io/",
+    "code_of_conduct":"https://www.eosviet.io/#corporate-pledge",
+    "email":"admin@eosviet.io",
     "branding":{
-      "logo_256":"",
-      "logo_1024":"",
-      "logo_svg":""
+      "logo_256":"https://www.eosviet.io/s/EOSVIET-256x256.png",
+      "logo_1024":"https://www.eosviet.io/s/EOSVIET-1024X1024.png",
+      "logo_svg":"https://www.eosviet.io/s/EOSVIET.svg"
     },
     "location": {
-      "name": "",
-      "country": "",
-      "latitude": 0,
-      "longitude": 0
+      "name": "Ho Chi Minh City, Vietnam",
+      "country": "VN",
+      "latitude": 10.770392,
+      "longitude": 106.724206
     },
     "social": {
-      "steemit": "",
+      "steemit": "eosvietnam",
       "twitter": "",
       "youtube": "",
       "facebook": "",
       "github":"",
       "reddit": "",
-      "keybase": "",
-      "telegram": "",
+      "keybase": "eosviet",
+      "telegram": "EOSViet",
       "wechat":""
     }
   },
