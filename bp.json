@@ -32,10 +32,10 @@
   "nodes": [
     {
       "location": {
-        "name": "",
-        "country": "",
-        "latitude": 0,
-        "longitude": 0
+      "name": "Ho Chi Minh City, Vietnam",
+      "country": "VN",
+      "latitude": 10.770392,
+      "longitude": 106.724206
       },
       "is_producer": false,
       "p2p_endpoint": "",
@@ -44,10 +44,10 @@
     },
     {
       "location": {
-        "name": "",
-        "country": "",
-        "latitude": 0,
-        "longitude": 0
+      "name": "Ho Chi Minh City, Vietnam",
+      "country": "VN",
+      "latitude": 10.770392,
+      "longitude": 106.724206
       },
       "is_producer": true,
       "p2p_endpoint": "",
